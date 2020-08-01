@@ -1,0 +1,25 @@
+path {
+ fill: #fbd5d231;
+}
+
+.navbarBackgroundSvg {
+ z-index: -1;
+}
+
+.navLinksContainer {
+ align-items: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 0;
+  position: absolute;
+}
+
+li {
+  display: inline;
+}
