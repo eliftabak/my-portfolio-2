@@ -17,9 +17,16 @@ ul {
   left: 0;
   right: 0;
   padding: 0;
+  padding-top: 20px;
   position: absolute;
 }
 
 li {
   display: inline;
+  margin: 25px;
+}
+
+li a {
+  color: #F3776E;
+  text-decoration: none;
 }
