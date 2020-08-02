@@ -8,9 +8,6 @@ export default function HomeContent() {
     <h1>Hello, I'm Elif</h1>
     
    </div>
-   <div className="imageContainer">
-    <img className="workstationImage" src={require('../../compnents/images/workstation.jpg')} />
-   </div>
   </div>
  )
 }

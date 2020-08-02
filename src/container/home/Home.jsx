@@ -1,5 +1,4 @@
 import React from 'react';
-import NavBar from "../../compnents/navbar/NavBar";
 import HomeContent from "./HomeContent"
 import './Home.css'
 

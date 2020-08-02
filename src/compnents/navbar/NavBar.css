@@ -1,21 +1,12 @@
-path {
- fill: #fbd5d231;
-}
-
-.navbarBackgroundSvg {
- z-index: -1;
-}
-
 .navLinksContainer {
  align-items: center;
 }
 
 ul {
   list-style-type: none;
-  margin: 0;
-  top: 0;
-  left: 0;
-  right: 0;
+  margin-left: 120px;
+  top: 20px;
+  bottom: 0;
   padding: 0;
   padding-top: 20px;
   position: absolute;
@@ -29,4 +20,8 @@ li {
 li a {
   color: #F3776E;
   text-decoration: none;
+}
+
+li a:hover {
+  color: aquamarine;
 }
